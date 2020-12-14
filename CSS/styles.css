@@ -1,0 +1,30 @@
+h3{
+  font-family: 'Parisienne', cursive;
+  font-size: 25px;
+  }
+
+#Page_Intro{
+  background-color: #778899; padding-left: 0; padding-right: 0;
+}
+.dropdown-item{
+  color: #A9A9A9;}
+
+.nav_bar{
+  border: black; border-width: thick;
+}
+.background-image {
+  background: url('../images/intro.jpg');
+  height: 650px;
+  opacity: 0.7;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.intro-paragraf {
+  width: 60%;
+  margin: 0 auto;
+  font-size: 20px;
+  color:#393e46;
+  padding-top: 150px;
+}
