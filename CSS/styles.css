@@ -1,12 +1,14 @@
-h3{
-  font-family: 'Parisienne', cursive;
+/* h3{
   font-size: 25px;
-  }
+  } */
 body{
   text-align: center;
+  font-family: 'Parisienne', cursive;
 }
+/* Intro container */
 #Page_Intro{
-  background-color: #778899; padding-left: 0; padding-right: 0;
+  background-color: #778899;
+  padding: 0 0 0 0;
 }
 .dropdown-item{
   color: #A9A9A9;}
@@ -26,10 +28,14 @@ body{
 .intro-paragraf {
   width: 60%;
   margin: 0 auto;
-  font-size: 20px;
-  color: #393e46;
-  padding-top: 150px;
+  color: black;
+line-height:1.6;
+ padding-top: 12%;
   text-align: center;
+}
+.quotation{
+   font-family: Garamond, serif;
+   font-weight: bold;
 }
 .nav_contact{
   margin-left: 50px;
