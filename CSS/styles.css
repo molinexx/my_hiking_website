@@ -2,7 +2,9 @@ h3{
   font-family: 'Parisienne', cursive;
   font-size: 25px;
   }
-
+body{
+  text-align: center;
+}
 #Page_Intro{
   background-color: #778899; padding-left: 0; padding-right: 0;
 }
@@ -47,4 +49,14 @@ h3{
 }
 .contact_icon:hover{
   color:#6495ED;
+}
+/* Patagonia container */
+.Patagonia-intro-container{
+  background-color:#495464 ;
+}
+.Patagonia-intro-paragraf{
+  padding: 3% 10% 0 ;
+}
+.carusel-container-outer{
+  padding: 2% 15%;
 }
