@@ -3,6 +3,10 @@
   .hand-written {
     font-weight: bolder; font-family: serif;
   }
+  
+}
+@media(max-width: 576px){
+
 }
 @media(min-width: 992px) {
   .carusel-container-outer {
