@@ -6,7 +6,11 @@
     font-weight: 300;
   }
 }
-
+@media(max-width: 576px) {
+  .intro-welcome {
+    font-weight: bolder;
+  }
+}
 @media(max-width: 576px){
 .intro-my-name{padding-top: 50px;}}
 
