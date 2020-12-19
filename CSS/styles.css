@@ -16,11 +16,16 @@
 
 /* when on a laptop size */
 @media(min-width: 992px) {
-  .carusel-container-outer {
+  .carusel-container-outer  {
     padding: 2% 15%;
   }
 }
 
+@media(min-width:768px){
+  .carusel-container-outer-oversized {
+    padding: 2% 21%;
+  }
+}
 @media(min-width:768px) {
   .hand-written {
     padding: 0 15%;
@@ -41,10 +46,14 @@ body {
   top: 0;
   bottom: auto;
 }
-
+.black{
+  color:  black;
+}
 .country-container {
   padding-bottom: 3%;
 }
+
+
 
 /* Intro container */
 #Page_Intro {
