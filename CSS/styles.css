@@ -21,12 +21,12 @@
   }
 }
 
-@media(min-width:768px){
+@media(min-width:992px){
   .carusel-container-outer-oversized {
     padding: 2% 21%;
   }
 }
-@media(min-width:768px) {
+@media(min-width:992px) {
   .hand-written {
     padding: 0 15%;
   }
